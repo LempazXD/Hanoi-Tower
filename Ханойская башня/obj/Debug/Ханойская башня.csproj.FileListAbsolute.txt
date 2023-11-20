@@ -1,0 +1,13 @@
+C:\Sasha's PC\VS Projects\Ханойская башня\bin\Debug\Ханойская башня.exe.config
+C:\Sasha's PC\VS Projects\Ханойская башня\bin\Debug\Ханойская башня.exe
+C:\Sasha's PC\VS Projects\Ханойская башня\bin\Debug\Ханойская башня.pdb
+C:\Sasha's PC\VS Projects\Ханойская башня\bin\Debug\MaterialSkin.dll
+C:\Sasha's PC\VS Projects\Ханойская башня\obj\Debug\Ханойская башня.csproj.AssemblyReference.cache
+C:\Sasha's PC\VS Projects\Ханойская башня\obj\Debug\Ханойская_башня.Properties.Resources.resources
+C:\Sasha's PC\VS Projects\Ханойская башня\obj\Debug\Ханойская башня.csproj.GenerateResource.cache
+C:\Sasha's PC\VS Projects\Ханойская башня\obj\Debug\Ханойская башня.csproj.CoreCompileInputs.cache
+C:\Sasha's PC\VS Projects\Ханойская башня\obj\Debug\Ханойская башня.csproj.CopyComplete
+C:\Sasha's PC\VS Projects\Ханойская башня\obj\Debug\Ханойская башня.exe
+C:\Sasha's PC\VS Projects\Ханойская башня\obj\Debug\Ханойская башня.pdb
+C:\Sasha's PC\VS Projects\Ханойская башня\obj\Debug\Ханойская_башня.Start.resources
+C:\Sasha's PC\VS Projects\Ханойская башня\obj\Debug\Ханойская_башня.App.resources
